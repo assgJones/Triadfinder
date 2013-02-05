@@ -1,0 +1,1 @@
+def triad(a,b):
